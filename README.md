@@ -157,8 +157,34 @@ insights for strategic decision-making.
 - **Opportunity:** States like BA, DF, ES and GO show emerging demand 
   with significant growth potential
 
-### 🚚 Delivery Performance & Reviews
-- Data currently being processed — insights coming soon
+### 🚚 Delivery Performance & Customer Satisfaction
+- **Delivery time directly correlates with review scores** — a near-perfect 
+  linear relationship:
+  - 5 stars → avg **10.2 days** delivery
+  - 4 stars → avg **11.8 days** delivery  
+  - 3 stars → avg **13.8 days** delivery
+  - 2 stars → avg **16.2 days** delivery
+  - 1 star  → avg **20.8 days** delivery
+- Every additional 2.5 days of delivery time costs approximately **1 star** 
+  in customer satisfaction
+- **On-time deliveries (92% of orders)** average a 4.29 review score 
+  and generate **$14,045,369** in revenue
+- **Late deliveries (8% of orders)** drop to a 2.56 average score, 
+  putting **$1,317,922** in revenue at risk of churn
+
+### 💡 Key Business Recommendations
+1. **Reduce delivery time below 10 days** — the single most impactful 
+   lever for improving customer satisfaction
+2. **Double down on credit card experience** — 78% of revenue depends 
+   on it. Any friction directly impacts the bottom line
+3. **Promote installment options** — customers respond to flexible 
+   payments. Offering 3-6 installments could increase average order value
+4. **Plan for November** — Black Friday drives +53% MoM growth. 
+   Inventory and logistics must scale accordingly
+5. **Expand beyond São Paulo** — SP concentrates 42% of customers 
+   but states like BA, GO and DF show emerging demand worth targeting
+6. **Focus on Health & Beauty and Watches** — top revenue categories 
+   with strong margins and consistent demand
 
 ## Author
 **Simón Segovia** | Financial & Data Analyst
