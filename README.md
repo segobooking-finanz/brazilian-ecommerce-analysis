@@ -118,11 +118,47 @@ insights for strategic decision-making.
 
 ## Author
 **Simón Segovia** | Financial & Data Analyst  
-📧 [your email]  
-💼 [your LinkedIn URL]
+📧 email  
+💼 Link
 
 ## Key Findings
-*Coming soon — analysis in progress*
+### 📈 Month over Month Growth
+- **November 2017 showed +53% growth** — directly correlated with 
+  Black Friday and Cyber Monday, confirming strong seasonal demand
+- **December consistently drops** after November peak (-26% in 2017), 
+  suggesting customers pull forward purchases to Black Friday
+- By 2018, monthly revenue **stabilized between $1M-$1.16M**, 
+  indicating business maturity and predictable demand
+- **September-October 2018 show near-zero values** — this reflects 
+  dataset cutoff, not actual business decline
+
+### 🛍️ Top Product Categories
+- **Health & Beauty leads** with $5,034,725 in revenue (9.39% share) 
+  across 8,836 orders
+- **Watches & Gifts** has the highest average price ($201.14), 
+  indicating a premium customer segment
+- **Bed, Bath & Table** drives the most orders (9,417) with lower 
+  average price ($93.30) — high volume, lower margin category
+- Top 10 categories represent approximately **62% of total revenue**
+
+### 🏪 Top Sellers
+- Top seller (Guariba, SP) generated **$229,472** from 1,132 orders 
+  at $198 average — high volume strategy
+- Second seller (Lauro de Freitas, BA) generated **$222,776** from 
+  only 358 orders at **$543 average** — premium product strategy
+- **São Paulo dominates** the seller base, with multiple top-10 
+  sellers operating from SP state
+
+### 🗺️ Geographic Distribution
+- **São Paulo concentrates 41.98% of all customers** — nearly 1 in 
+  2 customers is from SP
+- The top 3 states (SP, RJ, MG) account for **66.6% of the customer base**
+- Southern and southeastern Brazil dominates e-commerce activity
+- **Opportunity:** States like BA, DF, ES and GO show emerging demand 
+  with significant growth potential
+
+### 🚚 Delivery Performance & Reviews
+- Data currently being processed — insights coming soon
 
 ## Author
 **Simón Segovia** | Financial & Data Analyst
