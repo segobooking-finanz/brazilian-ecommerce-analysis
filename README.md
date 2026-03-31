@@ -186,5 +186,56 @@ insights for strategic decision-making.
 6. **Focus on Health & Beauty and Watches** — top revenue categories 
    with strong margins and consistent demand
 
+## Category & Product Analysis
+
+### 🏆 Top Categories Deep Dive
+- **Health & Beauty leads** with $5,034,725 across 8,836 orders and 
+  2,444 unique products — the most diverse category
+- **Watches & Gifts** has the highest average price ($201.14) with 
+  only 1,329 unique products — fewer SKUs but premium positioning
+- **Computers** has the highest average price of all ($1,098) but 
+  only 181 orders — ultra-premium, niche segment
+- **Small Appliances Home** averages $624 per item — second highest 
+  avg price, low volume but high margin potential
+
+### 📦 Freight Efficiency
+- **Home Comfort, Flowers and Furniture** have the worst freight-to-price 
+  ratios (54%, 44%, 37%) — shipping costs eat into margins significantly
+- **Electronics** has a 29% freight ratio across 11,068 items — high 
+  volume makes logistics optimization critical for this category
+- Categories like **Health & Beauty and Watches** have low freight 
+  ratios, making them the most profitable to ship
+
+### ⭐ Customer Satisfaction by Category
+- **Books** (general and technical) lead satisfaction with 4.45 and 
+  4.37 scores — digital-friendly, lightweight, easy to ship
+- **Food & Drink and Luggage** score above 4.30 — consistent, 
+  predictable products with clear customer expectations
+- High-revenue categories like **Health & Beauty and Watches** score 
+  around 4.0-4.1 — room for improvement despite strong sales
+
+### 🏪 Seller Tier Analysis
+- Only **18 Platinum sellers** (>$100K revenue) generate $2,683,686 
+  combined — avg $149K each with 4.04 review score
+- **21 Gold sellers** ($50K-$100K) average $60K with the best review 
+  score of all tiers: **4.14** — the sweet spot of volume and quality
+- **2,801 Bronze sellers** each average only $1,635 in revenue — 
+  the long tail that collectively generates $4,582,342
+- **Key insight:** Gold sellers outperform Platinum in satisfaction 
+  (4.14 vs 4.04), suggesting larger sellers sacrifice service quality 
+  for volume
+
+### 📈 Category Trends Over Time
+- **Health & Beauty** grew from $539 in Sep 2016 to **$483,215 in 
+  Aug 2018** — 895x growth, consistently in top 3
+- **Watches & Gifts** surged to **$495,490 in May 2018** — highest 
+  single-month category revenue in the dataset
+- **November 2017 Black Friday effect** visible across all categories:
+  - Watches & Gifts: $390,898 (+48% vs October)
+  - Bed, Bath & Table: $357,650 (+93% vs October)
+  - Computers & Accessories: $290,624 (+65% vs October)
+- By mid-2018, **Health & Beauty and Watches & Gifts** alternate 
+  leadership — signaling a maturing, competitive market
+
 ## Author
 **Simón Segovia** | Financial & Data Analyst
