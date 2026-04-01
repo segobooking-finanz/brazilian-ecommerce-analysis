@@ -237,5 +237,69 @@ insights for strategic decision-making.
 - By mid-2018, **Health & Beauty and Watches & Gifts** alternate 
   leadership — signaling a maturing, competitive market
 
+## Customer & Geographic Analysis
+
+### 🔄 Customer Retention
+- **96.88% of customers buy only once** — classic e-commerce challenge
+- Only **2.86% return for a second purchase** and 0.21% for a third
+- This signals a massive **retention opportunity** — even moving 5% of 
+  one-time buyers to repeat customers would significantly impact revenue
+- Recommendation: implement loyalty programs and post-purchase email 
+  campaigns targeting the 93,099 one-time buyers
+
+### 🗺️ Revenue by State
+- **São Paulo generates 37.47% of total revenue** ($5,998,226) — 
+  nearly 4x the second state
+- **Rio de Janeiro** is second with 13.39% but has the highest avg 
+  order value among top states ($158.53)
+- **Bahia** has the highest avg order value in top 10 ($170.82) — 
+  premium buyers despite lower volume
+- Top 3 states (SP, RJ, MG) = **62.56% of total revenue**
+
+### 🏙️ High-Value Cities
+- **Divinópolis MG** leads avg order value at $276 — surprisingly 
+  outperforming São Paulo ($137) despite being a smaller city
+- **Porto Velho RO** averages $245 — northern Brazil shows premium 
+  purchasing behavior, likely due to higher shipping costs inflating totals
+- **João Pessoa PB** and **Belém PA** both exceed $200 avg — 
+  underserved northeastern markets with strong purchasing power
+- São Paulo city despite massive volume has relatively low avg order 
+  value ($137) — high volume, competitive, price-sensitive market
+
+### 📅 Customer Acquisition
+- **November 2017: 7,430 new customers** — biggest acquisition month, 
+  driven by Black Friday
+- **January 2018: 7,166 customers** — strong post-holiday recovery
+- Growth from 3 customers (Sep 2016) to 7,000+ monthly by 2018 
+  represents extraordinary platform scaling
+
+### 📦 Order Status
+- **97.02% of orders are successfully delivered** — excellent 
+  operational performance
+- Only **0.63% canceled** — very low cancellation rate signals 
+  strong customer intent and clear product listings
+- **1.11% still shipped** — in-transit orders at dataset cutoff
+
+### 💎 High Value Customers
+- Top customer spent **$13,664** in a single order from Rio de Janeiro
+- Most VIP customers are **one-time buyers** of high-value items — 
+  likely electronics or furniture
+- **Florianópolis customer** spent $9,553 across 3 orders — 
+  the ideal repeat high-value profile
+- VIP customers are geographically diverse — opportunity for 
+  targeted premium campaigns nationwide
+
+### 🚚 Delivery Time by State
+- **São Paulo receives orders in 8.3 days** — fastest in Brazil, 
+  explains its dominance in customer satisfaction (4.25 score)
+- **Paraná and Minas Gerais** at 11.5 days — still strong performance
+- **Amapá (26.7 days) and Roraima (29 days)** — remote northern states 
+  wait nearly 3x longer than SP customers
+- **Direct correlation confirmed:** states with faster delivery 
+  consistently score above 4.0 in reviews
+- **Maranhão and Alagoas** (20+ days, ~3.84 score) represent the 
+  biggest service gap — underserved markets with poor delivery 
+  infrastructure but real purchasing demand
+
 ## Author
 **Simón Segovia** | Financial & Data Analyst
