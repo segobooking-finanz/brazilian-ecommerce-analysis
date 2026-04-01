@@ -164,6 +164,23 @@ insights for strategic decision-making.
 
 ---
 
+## Visualizations
+
+### 📈 Monthly Revenue Trend
+![Monthly Revenue](chart_01_monthly_revenue.png)
+
+### 💳 Revenue by Payment Method
+![Payment Methods](chart_02_payment_methods.png)
+
+### 🛍️ Top 10 Categories by Revenue
+![Top Categories](chart_03_top_categories.png)
+
+### 🚚 Delivery Time vs Customer Satisfaction
+![Delivery vs Review](chart_04_delivery_vs_review.png)
+
+### 🗺️ Customer Concentration by State
+![Customer by State](chart_05_customer_by_state.png)
+
 ## Author
 **Simón Segovia** | Financial & Data Analyst  
 📧 [your email]  
