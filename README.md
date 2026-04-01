@@ -301,5 +301,72 @@ insights for strategic decision-making.
   biggest service gap — underserved markets with poor delivery 
   infrastructure but real purchasing demand
 
+## Delivery & Operations Analysis
+
+### 🚚 Overall Delivery Performance
+- Average actual delivery time: **12.1 days**
+- Average estimated delivery time: **23.4 days**
+- **Olist overestimates delivery by 11 days on average** — they 
+  underpromise and overdeliver, which explains the high satisfaction
+- **91.89% on-time rate** — industry-leading operational performance
+
+### 📅 Monthly Delivery Trends
+- Delivery times improved dramatically: from **19.1 days (Oct 2016)** 
+  to **7.3 days (Aug 2018)** — a 62% improvement in logistics efficiency
+- **November-December 2017** saw delivery spike to 14-15 days — 
+  Black Friday volume overwhelmed logistics capacity
+- **Feb-Mar 2018** peaked at 16.5 days — likely post-holiday backlog
+- By mid-2018, delivery times dropped below 9 days consistently — 
+  sign of mature, optimized logistics network
+
+### ⏱️ Delivery Time Distribution & Satisfaction
+| Range | Orders | Share | Avg Review |
+|-------|--------|-------|------------|
+| 0-7 days | 33,685 | 34.96% | ⭐ 4.41 |
+| 8-14 days | 36,396 | 37.77% | ⭐ 4.29 |
+| 15-21 days | 15,381 | 15.96% | ⭐ 4.10 |
+| 22-30 days | 6,865 | 7.12% | ⭐ 3.49 |
+| 30+ days | 4,032 | 4.18% | ⭐ 2.18 |
+
+- **72.73% of orders arrive within 14 days** — strong core performance
+- Orders taking 30+ days receive catastrophic **2.18 rating** — 
+  these 4,032 orders represent a critical churn risk
+
+### ⚙️ Operational Pipeline Breakdown
+- **Approval time:** consistently ~3.5 hours — fast payment processing
+- **Seller to carrier:** improved from 12.6 days (Oct 2016) to 
+  **1.6 days (Aug 2018)** — 87% improvement in seller dispatch speed
+- **Carrier to customer:** improved from 8.7 days (Jan 2017) to 
+  **4.9 days (Aug 2018)** — last-mile delivery getting faster
+- The biggest operational gain came from **seller dispatch time** — 
+  suggests Olist implemented seller performance requirements over time
+
+### 🗺️ Late Deliveries by State
+- **Alagoas (23.37%)** and **Maranhão (19.13%)** have the worst 
+  late delivery rates — northeastern states suffer most
+- **São Paulo has only 5.82% late rate** — proximity to distribution 
+  centers makes the difference
+- **Paraná (4.94%)** and **Amazonas (4.14%)** surprisingly low — 
+  despite distance, good carrier coverage
+- States with highest late rates (AL, MA, PI, CE) consistently 
+  score below 4.0 in reviews — direct operational impact on NPS
+
+### 💰 Revenue Impact by Delivery Speed
+| Range | Revenue | Avg Order | Avg Review |
+|-------|---------|-----------|------------|
+| 0-7 days | $4,730,450 | $134.89 | ⭐ 4.41 |
+| 8-14 days | $5,925,438 | $155.30 | ⭐ 4.29 |
+| 15-21 days | $2,672,227 | $166.49 | ⭐ 4.10 |
+| 22-30 days | $1,233,844 | $172.47 | ⭐ 3.50 |
+| 30+ days | $801,331 | $189.89 | ⭐ 2.18 |
+
+- **Counterintuitive finding:** slower deliveries have higher avg 
+  order values ($189 for 30+ days vs $134 for 0-7 days)
+- This suggests **heavy/large items** (furniture, appliances) 
+  naturally take longer to ship AND cost more — not a satisfaction 
+  problem with standard products
+- **$801,331 in revenue** comes from orders with catastrophic 
+  satisfaction scores — high churn risk segment
+
 ## Author
 **Simón Segovia** | Financial & Data Analyst
