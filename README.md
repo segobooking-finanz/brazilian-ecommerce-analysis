@@ -183,6 +183,7 @@ insights for strategic decision-making.
 
 ## Author
 **Simón Segovia** | Financial & Data Analyst  
-📧 [your email]  
-💼 [your LinkedIn URL]
+📧 simon.segoviavalen@gmail.com  
+💼 [LinkedIn](https://www.linkedin.com/in/simón-sebastián-segovia-valenzuela-6505b1259)  
+🐙 [GitHub](https://github.com/segobooking-finanz)
 
